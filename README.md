@@ -8,3 +8,4 @@
 * `status` -> check to see which files are being tracked or need to be commited
 * `init` -> use this command inside of your project to turn it into a Git repository and start using Git with that codebase
 > _Enjoy Reading it !!!_
+* credit goes to its creator
